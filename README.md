@@ -1,3 +1,3 @@
 # Binary_classifiers
 Code for the paper "Binary Classifiers for Data Integrity Detection in Wearable IoT Edge Devices."
-The code will be cleaned and commented. It will be available here by 30th August 2020. 
+The code will be cleaned and commented. It will be available here by 30th september 2020. 
