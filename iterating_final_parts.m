@@ -1,6 +1,6 @@
 %warning('off', MSGID)
 clear all
-addpath('D:\PhD topics\Desktop\Binary_classification1\Binary_classification1')
+addpath('D:\PhD topics\Desktop\Binary_classification1\Binary_classification1\data')
 C1_training=zeros(2,2);
 C2_training=zeros(2,2);
 C3_training=zeros(2,2);
