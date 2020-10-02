@@ -1,1 +1,1 @@
-The data in .dat format is available here
+The data is available here
