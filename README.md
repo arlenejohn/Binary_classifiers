@@ -6,3 +6,5 @@ The iterating_final_parts script generates the 10-fold cross-validation sets, ge
 The training_list.mat files contain the list of files and the classes.
 
 Installation of the WFDB toolbox is a  pre-requisite to execute the main program.
+
+The ensembles of neural networks is done in python and the code is available in the notebook file: bagging_and_gboosting_neural_networks.ipynb. The jupyter notebook directly loads the calculated SQIs from the excel sheet:SQI_class.xlsx
